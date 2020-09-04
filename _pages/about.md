@@ -9,5 +9,5 @@ Predictive understanding of ecosystem response to change has become a pressing s
 
 EMERGE examines biological interactions and their responses to change by employing a ‘genes-to-ecosystems-to-genes’ (G2E2G) approach. Specifically, the team investigates how the genetic and metabolic features of microbial communities, and their biotic and abiotic interactions, give rise to ecosystem outputs (the ‘genes-to-ecosystems’ paradigm), specifically carbon gas emissions, and how ecosystems in turn impact gene expression and allele frequencies via the “3 As” of acclimation, assembly, and adaptation (here, the ‘ecosystems-to-genes’ feedback). EMERGE’s teamwork is built upon best practices of effective team science, and EMERGE’s research is tightly connected to education and training designed to broaden participation and forge the next generation of cutting-edge integrative biologists. All EMERGE members also engage in outreach, to ensure that insights from this taxpayer-funded research are broadly and openly shared with the scientific community and the public.
 
-![Boardwalk collapses into a thermokarst thaw feature at Stordalen Mire. Photo credit: Patrick Crill.](/assets/images/ByPatrickCrill_StrrdlnMire_to_S_from-shck_boardwalk_collapse.JPG)
-Boardwalk collapses into a thermokarst thaw feature at Stordalen Mire. Photo credit: Patrick Crill.
+{% include image.html url="/assets/images/ByPatrickCrill_StrrdlnMire_to_S_from-shck_boardwalk_collapse.JPG" 
+description="Boardwalk collapses into a thermokarst thaw feature at Stordalen Mire. Photo credit: Patrick Crill." %}
