@@ -1,8 +1,19 @@
 <!-- start custom footer snippets -->
-<!-- <a href="/sitemap/">Sitemap</a> -->
 <style>
     .page__footer {
-        background-color: #98ffcc;
+        color: #40514E !important; /*this was done to override the !important in the Mint theme css*/
+        background-color: #bcf;
+        padding-bottom: 1em;
     }
 </style>
+
+<!-- Hack to get the custom div below to appear at the bottom of the footer (instead of the top):
+     Set "position:absolute; bottom: 3em;" on the custom div, then set "padding-bottom: 1em;" in the main .page__footer
+     style (to prevent the text from overlapping). -->
+
+<div class="page__footer-copyright" style="position: absolute; bottom: 3em;">
+    Web development by <a href="https://shodgkins.github.io/" target="_blank">Suzanne Hodgkins</a>.
+</div>
+
+
 <!-- end custom footer snippets -->
