@@ -4,23 +4,25 @@
 
   .left {
     display: table-cell;
-    width: 20%;
-    padding: 2%;
-    text-align: right;
-    vertical-align: middle;
-  }
-
-  .right {
-    display: table-cell;
-    width: 80%;
+    width: auto;
+    max-width: 20%;
     padding: 2% 2% 2% 0;
     text-align: left;
     vertical-align: middle;
   }
 
+  .right {
+    display: table-cell;
+    width: auto;
+    padding: 2%;
+    text-align: left;
+    vertical-align: middle;
+  }
+
   .row {
-    display: table-row;
-    margin: 1em 0 1em 0;
+    display: table;
+    width: 100%;
+    margin-bottom: 1em;
   }
 
   /* Clear floats after the columns */
@@ -31,7 +33,7 @@
 </style>
 
 <div class="masthead">
-  <div class="masthead__inner-wrap" style="padding-top: 0.3em; padding-bottom: 0.3em;">
+  <div class="masthead__inner-wrap" style="padding-top: 0.3em; padding-bottom: 1em;">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav" style="background: rgba(0, 0, 0, 0);">
         <!--<button><div class="navicon"></div></button>-->
@@ -65,12 +67,12 @@
   </div>
 </div>
 <div class="masthead" style="background-image: url('/assets/images/Nice_Mire_Overview_credit_Scott_Saleska2.jpg'); background-size: cover; z-index: -1; margin-bottom: 1em;">
-
-  <div class="row">
-    <div class="left"><img src='/assets/images/EMERGE_logo_dark-green_gold-lettering.png'></div>
-    <div class="right"><h1 style="font-size: 2.1em; color: #fff; text-shadow: 0 0 2px #444;">{{ site.title }}</h1></div>
+  <div class="masthead__inner-wrap" style="margin-bottom: 2em;">
+    <div class="row">
+      <div class="left"><img src='/assets/images/android-chrome-192x192.png'></div>
+      <div class="right"><h1 style="font-size: 2.1em; color: #fff; text-shadow: 0 0 2px #444; display: table-cell; vertical-align: middle;">{{ site.title }}</h1></div>
+    </div>
   </div>
-
-  <figcaption><span style="position: absolute; bottom: 0; right: 0; padding: 0.3em 0.7em; margin: 0; color: #fff; background-color: rgba(0, 0, 0, 0.3);">Background image: Stordalen Mire, northern Sweden (photo credit: Scott Saleska)</span></figcaption>
+  <figcaption><span style="position: absolute; bottom: 0; right: 0; padding: 0.2em 0.5em; margin: 0; color: #fff; background-color: rgba(0, 0, 0, 0.3);">Background image: Stordalen Mire, northern Sweden (photo credit: Scott Saleska). Logo by Suzanne Hodgkins.</span></figcaption>
 </div>
 
