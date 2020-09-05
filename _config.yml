@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "EMERGE-BII"
-  avatar : "/assets/images/EMERGE_logo_dark-green_gold-lettering.png"
+  avatar :
   bio    : "EMergent Ecosystem Response to ChanGE Biology Integration Institute"
   links:
     - label: "Twitter"
@@ -94,6 +94,7 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
 
 category_archive:
