@@ -1,0 +1,76 @@
+{% include base_path %}
+
+<style>
+
+  .left {
+    display: table-cell;
+    width: 20%;
+    padding: 2%;
+    text-align: right;
+    vertical-align: middle;
+  }
+
+  .right {
+    display: table-cell;
+    width: 80%;
+    padding: 2% 2% 2% 0;
+    text-align: left;
+    vertical-align: middle;
+  }
+
+  .row {
+    display: table-row;
+    margin: 1em 0 1em 0;
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    clear: both;
+  }
+</style>
+
+<div class="masthead">
+  <div class="masthead__inner-wrap" style="padding-top: 0.3em; padding-bottom: 0.3em;">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" style="background: rgba(0, 0, 0, 0);">
+        <!--<button><div class="navicon"></div></button>-->
+
+        <a class="site-title" href="{{ base_path }}/">Home</a>
+        <ul class="visible-links">
+          <!--<li class="masthead__menu-item masthead__menu-item&#45;&#45;lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>-->
+          {% for link in site.data.navigation.main %}
+            {% if link.url contains 'http' %}
+              {% assign domain = '' %}
+              {% else %}
+              {% assign domain = base_path %}
+            {% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+        <!--<button class="search__toggle" type="button">-->
+          <!--<span class="visually-hidden">Toggle search</span>-->
+          <!--<svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">-->
+            <!--<path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>-->
+          <!--</svg>-->
+        <!--</button>-->
+
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+<div class="masthead" style="background-image: url('/assets/images/Nice_Mire_Overview_credit_Scott_Saleska2.jpg'); background-size: cover; z-index: -1; margin-bottom: 1em;">
+
+  <div class="row">
+    <div class="left"><img src='/assets/images/EMERGE_logo_dark-green_gold-lettering.png'></div>
+    <div class="right"><h1 style="font-size: 2.1em; color: #fff; text-shadow: 0 0 2px #444;">{{ site.title }}</h1></div>
+  </div>
+
+  <figcaption><span style="position: absolute; bottom: 0; right: 0; padding: 0.3em 0.7em; margin: 0; color: #fff; background-color: rgba(0, 0, 0, 0.3);">Background image: Stordalen Mire, northern Sweden (photo credit: Scott Saleska)</span></figcaption>
+</div>
+
