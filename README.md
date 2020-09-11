@@ -1,4 +1,4 @@
-# Minimal Mistakes remote theme starter
+# About this website template
 
 ---
 
@@ -16,6 +16,7 @@
 3. Run the following commands to initialize the site configuration:
 
     ```bundle clean``` (no need to run --force)
+    
     ```bundle install``` (to install ruby dependencies; if you get errors, delete Gemfile.lock and try again)
 
 ### Each time running:
