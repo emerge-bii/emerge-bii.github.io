@@ -1,6 +1,6 @@
 ---
-permalink: /team/
-title: "Team"
+permalink: /people/
+title: "People"
 
 ---
 
