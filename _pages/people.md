@@ -51,7 +51,7 @@ title: "People"
 </tr>
 <tr>
 <td>Sarah Bagby</td>
-<td>Case Western University</td>
+<td>Case Western Reserve University</td>
 <td>RA1 Co-Lead</td>
 </tr>
 <tr>
