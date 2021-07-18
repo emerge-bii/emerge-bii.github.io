@@ -9,3 +9,5 @@ main:
     url: /people/
   - title: "Institute Structure"
     url: /institute-structure/
+  - title: "Publications"
+    url: /publications/
