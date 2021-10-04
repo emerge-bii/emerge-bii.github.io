@@ -100,6 +100,11 @@ title: "People"
 <td>RA2 Co-Lead</td>
 </tr>
 <tr>
+<td>Florencia Fahnestock</td>
+<td>University of New Hampshire</td>
+<td>Outreach Co-Lead</td>
+</tr>
+<tr>
 <td>Regis Ferriere</td>
 <td>University of Arizona</td>
 <td>RA4 Co-Lead</td>
