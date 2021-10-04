@@ -215,6 +215,11 @@ title: "People"
 <td>RA5</td>
 </tr>
 <tr>
+<td>Buck Castillo</td>
+<td>University of New Hampshire</td>
+<td>RA2</td>
+</tr>
+<tr>
 <td>Alex Cory</td>
 <td>Florida State University</td>
 <td>Research Platform</td>
@@ -233,6 +238,11 @@ title: "People"
 <td>Hannah Holland-Moritz</td>
 <td>University of New Hampshire</td>
 <td>RA2</td>
+</tr>
+<tr>
+<td>Heather Ingram</td>
+<td>University of Arizona</td>
+<td>Outreach</td>
 </tr>
 <tr>
 <td>Jason Keller</td>
@@ -258,6 +268,16 @@ title: "People"
 <td>Rhys Newell</td>
 <td>Queensland University of Technology</td>
 <td>RA3</td>
+</tr>
+<tr>
+<td>Gaofang Ni</td>
+<td>Queensland University of Technology</td>
+<td>RA3</td>
+</tr>
+<tr>
+<td>Trish Nickel</td>
+<td>Colorado State University at Fort Collins</td>
+<td>Education &amp; Training</td>
 </tr>
 <tr>
 <td>Joy O'Brien</td>
