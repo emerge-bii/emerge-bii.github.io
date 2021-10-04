@@ -199,5 +199,35 @@ title: "People"
 <td>The Ohio State University</td>
 <td>RA1 Co-Lead</td>
 </tr>
+<tr>
+<td>Kathryn Bennett</td>
+<td>University of New Hampshire</td>
+<td>RA5</td>
+</tr>
+<tr>
+<td>Alex Cory</td>
+<td>Florida State University</td>
+<td>Research Platform</td>
+</tr>
+<tr>
+<td>Joy O'Brien</td>
+<td>University of New Hampshire</td>
+<td>RA2</td>
+</tr>
+<tr>
+<td>Apryl Perry</td>
+<td>University of New Hampshire</td>
+<td>Research Platform</td>
+</tr>
+<tr>
+<td>Clarice Perryman</td>
+<td>University of New Hampshire</td>
+<td>RA5</td>
+</tr>
+<tr>
+<td>Derek Smith</td>
+<td>University of New Hampshire</td>
+<td>RA1</td>
+</tr>
 </tbody>
 </table>
