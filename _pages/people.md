@@ -210,6 +210,21 @@ title: "People"
 <td>Research Platform</td>
 </tr>
 <tr>
+<td>Rebecca Daly</td>
+<td>Colorado State University at Fort Collins</td>
+<td>RA2</td>
+</tr>
+<tr>
+<td>Hannah Holland-Moritz</td>
+<td>University of New Hampshire</td>
+<td>RA2</td>
+</tr>
+<tr>
+<td>Rhys Newell</td>
+<td>Queensland University of Technology</td>
+<td>RA3</td>
+</tr>
+<tr>
 <td>Joy O'Brien</td>
 <td>University of New Hampshire</td>
 <td>RA2</td>
@@ -225,9 +240,29 @@ title: "People"
 <td>RA5</td>
 </tr>
 <tr>
+<td>Akbar Adjie Pratama</td>
+<td>The Ohio State University</td>
+<td>RA3</td>
+</tr>
+<tr>
+<td>Michael Shaffer</td>
+<td>Colorado State University at Fort Collins</td>
+<td>RA2</td>
+</tr>
+<tr>
 <td>Derek Smith</td>
 <td>Case Western Reserve University</td>
 <td>RA1</td>
+</tr>
+<tr>
+<td>Sergei Solonenko</td>
+<td>The Ohio State University</td>
+<td>RA3</td>
+</tr>
+<tr>
+<td>Olivier Zablocki</td>
+<td>The Ohio State University</td>
+<td>RA3</td>
 </tr>
 </tbody>
 </table>
