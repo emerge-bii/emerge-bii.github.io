@@ -200,7 +200,17 @@ title: "People"
 <td>RA1 Co-Lead</td>
 </tr>
 <tr>
+<td>Christian Ayala-Ortiz</td>
+<td>University of Arizona</td>
+<td>RA2</td>
+</tr>
+<tr>
 <td>Kathryn Bennett</td>
+<td>University of New Hampshire</td>
+<td>RA5</td>
+</tr>
+<tr>
+<td>Sophia Burke</td>
 <td>University of New Hampshire</td>
 <td>RA5</td>
 </tr>
@@ -215,8 +225,33 @@ title: "People"
 <td>RA2</td>
 </tr>
 <tr>
+<td>Viviana Freire Zapata</td>
+<td>University of Arizona</td>
+<td>RA2</td>
+</tr>
+<tr>
 <td>Hannah Holland-Moritz</td>
 <td>University of New Hampshire</td>
+<td>RA2</td>
+</tr>
+<tr>
+<td>Jason Keller</td>
+<td>Chapman University</td>
+<td>RA5</td>
+</tr>
+<tr>
+<td>McKenzie Kuhn</td>
+<td>University of New Hampshire</td>
+<td>RA5</td>
+</tr>
+<tr>
+<td>Zhen Li</td>
+<td>Berkeley Lab</td>
+<td>RA4</td>
+</tr>
+<tr>
+<td>Bridget McGivern</td>
+<td>Colorado State University at Fort Collins</td>
 <td>RA2</td>
 </tr>
 <tr>
