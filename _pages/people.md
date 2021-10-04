@@ -226,7 +226,7 @@ title: "People"
 </tr>
 <tr>
 <td>Derek Smith</td>
-<td>University of New Hampshire</td>
+<td>Case Western Reserve University</td>
 <td>RA1</td>
 </tr>
 </tbody>
