@@ -250,6 +250,11 @@ title: "People"
 <td>RA2</td>
 </tr>
 <tr>
+<td>Kuang-Yu Chang</td>
+<td>Lawrence Berkeley National Laboratory</td>
+<td>RA4</td>
+</tr>
+<tr>
 <td>Philippe Cherabier</td>
 <td>University of Arizona</td>
 <td>RA4</td>
