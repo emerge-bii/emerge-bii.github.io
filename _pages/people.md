@@ -205,6 +205,11 @@ title: "People"
 <td>RA4</td>
 </tr>
 <tr>
+<td>Samuel Aroney</td>
+<td>Queensland University of Technology</td>
+<td>RA3</td>
+</tr>
+<tr>
 <td>Christian Ayala-Ortiz</td>
 <td>University of Arizona</td>
 <td>RA2</td>
@@ -265,6 +270,11 @@ title: "People"
 <td>Outreach</td>
 </tr>
 <tr>
+<td>Cheristy Jones</td>
+<td>University of New Hampshire</td>
+<td>Education &amp; Training</td>
+</tr>
+<tr>
 <td>Jason Keller</td>
 <td>Chapman University</td>
 <td>RA5</td>
@@ -288,6 +298,11 @@ title: "People"
 <td>Bridget McGivern</td>
 <td>Colorado State University at Fort Collins</td>
 <td>RA2</td>
+</tr>
+<tr>
+<td>Dustin Miller</td>
+<td>The Ohio State University</td>
+<td>Informatics &amp; Data Management</td>
 </tr>
 <tr>
 <td>Rhys Newell</td>
