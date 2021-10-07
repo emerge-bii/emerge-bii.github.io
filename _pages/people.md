@@ -200,6 +200,11 @@ title: "People"
 <td>RA1 Co-Lead</td>
 </tr>
 <tr>
+<td>Antonin Affholder</td>
+<td>University of Arizona</td>
+<td>RA4</td>
+</tr>
+<tr>
 <td>Christian Ayala-Ortiz</td>
 <td>University of Arizona</td>
 <td>RA2</td>
@@ -210,6 +215,16 @@ title: "People"
 <td>RA5</td>
 </tr>
 <tr>
+<td>Lukas Bernhardt</td>
+<td>University of New Hampshire</td>
+<td>RA2</td>
+</tr>
+<tr>
+<td>Nathan Blais</td>
+<td>University of New Hampshire</td>
+<td>RA2</td>
+</tr>
+<tr>
 <td>Sophia Burke</td>
 <td>University of New Hampshire</td>
 <td>RA5</td>
@@ -218,6 +233,11 @@ title: "People"
 <td>Buck Castillo</td>
 <td>University of New Hampshire</td>
 <td>RA2</td>
+</tr>
+<tr>
+<td>Philippe Cherabier</td>
+<td>University of Arizona</td>
+<td>RA4</td>
 </tr>
 <tr>
 <td>Alex Cory</td>
@@ -248,6 +268,11 @@ title: "People"
 <td>Jason Keller</td>
 <td>Chapman University</td>
 <td>RA5</td>
+</tr>
+<tr>
+<td>Mruthyunjay Kubendran-Sumathi</td>
+<td>University of Arizona</td>
+<td>RA4</td>
 </tr>
 <tr>
 <td>McKenzie Kuhn</td>
@@ -298,6 +323,16 @@ title: "People"
 <td>Akbar Adjie Pratama</td>
 <td>The Ohio State University</td>
 <td>RA3</td>
+</tr>
+<tr>
+<td>Boris Sauterey</td>
+<td>University of Arizona</td>
+<td>RA4</td>
+</tr>
+<tr>
+<td>Sean Schaefer</td>
+<td>University of New Hampshire</td>
+<td>RA2</td>
 </tr>
 <tr>
 <td>Michael Shaffer</td>
