@@ -41,7 +41,7 @@ title: "People"
 </tr>
 <tr>
 <td><a href="https://eesa.lbl.gov/profiles/william-j-riley/" target="_blank" rel="noopener noreferrer">William Riley</a></td>
-<td>Berkeley Lab</td>
+<td>Lawrence Berkeley National Laboratory</td>
 <td>Executive Committee, RA5 Co-Lead</td>
 </tr>
 <tr>
@@ -230,9 +230,19 @@ title: "People"
 <td>RA2</td>
 </tr>
 <tr>
+<td>Marisa Blencoe</td>
+<td>Queensland University of Technology</td>
+<td>RA3</td>
+</tr>
+<tr>
 <td>Sophia Burke</td>
 <td>University of New Hampshire</td>
 <td>RA5</td>
+</tr>
+<tr>
+<td>Marie Burris</td>
+<td>The Ohio State University</td>
+<td>RA1</td>
 </tr>
 <tr>
 <td>Buck Castillo</td>
@@ -245,6 +255,11 @@ title: "People"
 <td>RA4</td>
 </tr>
 <tr>
+<td>Alex Chklovski</td>
+<td>Queensland University of Technology</td>
+<td>RA3</td>
+</tr>
+<tr>
 <td>Alex Cory</td>
 <td>Florida State University</td>
 <td>Research Platform</td>
@@ -255,14 +270,39 @@ title: "People"
 <td>RA2</td>
 </tr>
 <tr>
+<td>Guillermo Dominguez-Huerta</td>
+<td>The Ohio State University</td>
+<td>RA2</td>
+</tr>
+<tr>
 <td>Viviana Freire Zapata</td>
 <td>University of Arizona</td>
 <td>RA2</td>
 </tr>
 <tr>
+<td>Aminata Fofana</td>
+<td>The Ohio State University</td>
+<td>RA2</td>
+</tr>
+<tr>
+<td>Brittany Fonner</td>
+<td>The Ohio State University</td>
+<td>Program Coordinator</td>
+</tr>
+<tr>
+<td>Michael Hardesty</td>
+<td>The Ohio State University</td>
+<td>Informatics &amp; Data Management</td>
+</tr>
+<tr>
 <td>Hannah Holland-Moritz</td>
 <td>University of New Hampshire</td>
 <td>RA2</td>
+</tr>
+<tr>
+<td>Cristina Howard-Varona</td>
+<td>The Ohio State University</td>
+<td>RA1</td>
 </tr>
 <tr>
 <td>Heather Ingram</td>
@@ -273,6 +313,11 @@ title: "People"
 <td>Cheristy Jones</td>
 <td>University of New Hampshire</td>
 <td>Education &amp; Training</td>
+</tr>
+<tr>
+<td>Ulas Karaoz</td>
+<td>Lawrence Berkeley National Laboratory</td>
+<td>RA4</td>
 </tr>
 <tr>
 <td>Jason Keller</td>
@@ -291,7 +336,7 @@ title: "People"
 </tr>
 <tr>
 <td>Zhen Li</td>
-<td>Berkeley Lab</td>
+<td>Lawrence Berkeley National Laboratory</td>
 <td>RA4</td>
 </tr>
 <tr>
@@ -300,9 +345,19 @@ title: "People"
 <td>RA2</td>
 </tr>
 <tr>
+<td>Eilish McMaster</td>
+<td>Queensland University of Technology</td>
+<td>RA2</td>
+</tr>
+<tr>
 <td>Dustin Miller</td>
 <td>The Ohio State University</td>
 <td>Informatics &amp; Data Management</td>
+</tr>
+<tr>
+<td>Tim Morin</td>
+<td>SUNY College of Environmental Science and Forestry</td>
+<td>RA5</td>
 </tr>
 <tr>
 <td>Rhys Newell</td>
@@ -325,6 +380,16 @@ title: "People"
 <td>RA2</td>
 </tr>
 <tr>
+<td>Angela Oliverio</td>
+<td>Colorado State University at Fort Collins</td>
+<td>RA2</td>
+</tr>
+<tr>
+<td>Virginie Perlo</td>
+<td>Queensland University of Technology</td>
+<td>RA3</td>
+</tr>
+<tr>
 <td>Apryl Perry</td>
 <td>University of New Hampshire</td>
 <td>Research Platform</td>
@@ -333,6 +398,11 @@ title: "People"
 <td>Clarice Perryman</td>
 <td>University of New Hampshire</td>
 <td>RA5</td>
+</tr>
+<tr>
+<td>Dustin Perzanowski</td>
+<td>The Ohio State University</td>
+<td>Informatics &amp; Data Management</td>
 </tr>
 <tr>
 <td>Akbar Adjie Pratama</td>
@@ -360,9 +430,29 @@ title: "People"
 <td>RA1</td>
 </tr>
 <tr>
+<td>Natalie Solonenko</td>
+<td>The Ohio State University</td>
+<td>RA1</td>
+</tr>
+<tr>
 <td>Sergei Solonenko</td>
 <td>The Ohio State University</td>
 <td>RA3</td>
+</tr>
+<tr>
+<td>Christine Sun</td>
+<td>The Ohio State University</td>
+<td>RA2</td>
+</tr>
+<tr>
+<td>Funing Tian</td>
+<td>The Ohio State University</td>
+<td>RA3</td>
+</tr>
+<tr>
+<td>Dean Vik</td>
+<td>The Ohio State University</td>
+<td>RA2</td>
 </tr>
 <tr>
 <td>Olivier Zablocki</td>
