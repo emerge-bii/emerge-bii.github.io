@@ -11,4 +11,4 @@ EMERGE examines biological interactions and their responses to change by employi
 {% include image.html url="/assets/images/ByPatrickCrill_StrrdlnMire_to_S_from-shck_boardwalk_collapse.JPG"
 description="Boardwalk collapses into a thermokarst thaw feature at Stordalen Mire. Photo credit: Patrick Crill." %}
 
-Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+This material is based upon work supported by the National Science Foundation under Grant Number 2022070. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
