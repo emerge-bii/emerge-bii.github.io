@@ -130,11 +130,6 @@ title: "People"
 <td>RA2</td>
 </tr>
 <tr>
-<td>Daniel Howard</td>
-<td>University of New Hampshire</td>
-<td>Education &amp; Training</td>
-</tr>
-<tr>
 <td>Fen Li</td>
 <td>The Ohio State University</td>
 <td>RA1, Research Platform</td>
