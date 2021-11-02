@@ -8,6 +8,7 @@ The EMERGE Institute is seeking enthusiastic and motivated undergraduate student
 
 When: June 6th - August 5th, 2022
 Location(s): The University of New Hampshire and Abisko, Sweden
+
 Contact: Ruth.Varner@unh.edu; florencia.fahnestock@unh.edu
 
-*Review of applications will begin December 20th, 2021*
+***Review of applications will begin December 20th, 2021***
