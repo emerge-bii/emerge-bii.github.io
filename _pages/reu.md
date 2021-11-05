@@ -1,6 +1,6 @@
 ---
 permalink: /reu/
-title: "REU"
+title: "EMERGE Research Experiences for Undergraduates (REU) Program"
 
 ---
 
