@@ -12,6 +12,8 @@ Location: The University of New Hampshire and Abisko, Sweden
 
 Contact: Ruth.Varner@unh.edu; florencia.fahnestock@unh.edu
 
+Find more details <a href="https://drive.google.com/file/d/1QR1qZeGGroCWEP1RWqChNi8IJk2pXrNX/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
+
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCFypZtj6wfg03iKXuKkv2d1V0y-2lV-zPFbJPCIRT1Afv6w/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Apply Here</a>
 
 ***Review of applications will begin December 20th, 2021***
