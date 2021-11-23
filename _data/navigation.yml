@@ -13,5 +13,7 @@ main:
     url: /publications/
   - title: "Outreach"
     url: /outreach/
+  - title: "Summer Institute"
+    url: /summerinstitute/
   - title: "REU"
     url: /reu/
