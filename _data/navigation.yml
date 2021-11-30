@@ -11,6 +11,8 @@ main:
     url: /institute-structure/
   - title: "Publications"
     url: /publications/
+  - title: "Data"
+    url: /data/
   - title: "Outreach"
     url: /outreach/
   - title: "Summer Institute"
