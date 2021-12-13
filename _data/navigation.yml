@@ -16,7 +16,7 @@ main:
   - title: "Outreach"
     url: /outreach/
   - title: "Training"
-    menu:
+    sublinks:
     - title: "Summer Institute"
       url: /summerinstitute/
     - title: "REU"
