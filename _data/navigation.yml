@@ -15,7 +15,9 @@ main:
     url: /data/
   - title: "Outreach"
     url: /outreach/
-  - title: "Summer Institute"
-    url: /summerinstitute/
-  - title: "REU"
-    url: /reu/
+  - title: "Training"
+    menu:
+    - title: "Summer Institute"
+      url: /summerinstitute/
+    - title: "REU"
+      url: /reu/
