@@ -22,8 +22,11 @@ Note that in order to participate and receive funding from the National Science 
 
 When: June 13th - June 14th, 2022
 
-Location: The University of New Hampshire and Zoom; *Proof of COVID-19 vaccination is required for participation*
+Location: The University of New Hampshire and Zoom;
+*Proof of COVID-19 vaccination is required for participation*
+
 Find more details <a href="https://drive.google.com/file/d/1bGkqukhR1203q-YuW9eOIAcTE0JZNCWJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
 
 Ready to apply? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEKblUH9I5BWCp4I2pq6M_v6qDhJ7aOWL0CqLBjnQQOS5KIg/viewform" target="_blank" rel="noopener noreferrer">Apply Here</a>
-*Review of applications will begin February 15th, 2022*
+
+***Review of applications will begin February 15th, 2022***
