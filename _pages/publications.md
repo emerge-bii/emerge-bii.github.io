@@ -7,6 +7,8 @@ title: "Publications"
 EMERGE Team Members **bolded**
 
 
+6\. **Wilson, R.M.**, **Hough, M.A.**, Verbeke, B.A., **Hodgkins, S.B.**, IsoGenie Coordinators, **Chanton, J.P.**, **Saleska, S.D.**, **Rich, V.I.**, & **M.M. Tfaily**. 2021. Plant organic matter inputs exert a strong control on soil organic matter decomposition in a thawing permafrost peatland. ***Science of the Total Environment***. In press.
+
 5\. **Cory, A.B.**, **Chanton, J.P.**, Spencer, R.G.M., **Rich, V.I.**, **McCalley, C.K.**, IsoGenie Project Coordinators, **EMERGE 2021 Field Team**, & **R. M. Wilson**. 2021. Quantifying the Inhibitory Impact of Soluble Phenolics on Carbon Mineralization from Sphagnum-rich Peatlands. ***PLOS One***. In press. <a href="https://www.biorxiv.org/content/10.1101/2021.05.24.445415v1" target="_blank" rel="noopener noreferrer">PREPRINT</a>
 
 4\. **Roux, S.**, Paul, B.G., **Bagby, S.C.**, Allen, M.A., Attwood, G., Cavicchioli, R., Chistoserdova, L., Hallam, S.J., Hernandez, M.E., Hess, M., Liu, W.-T., O’Malley, M.A., Peng, X., **Rich, V.I.**, **Saleska, S.**, &amp; **Eloe-Fadrosh, E**. 2021.  Ecology and molecular targets of hypermutation in the global microbiome. ***Nature Communications***. 12:3076. <a href="https://www.nature.com/articles/s41467-021-23402-7" target="_blank" rel="noopener noreferrer">LINK</a> <a href="https://www.nature.com/articles/s41467-021-23402-7.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
