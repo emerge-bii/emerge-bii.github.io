@@ -1,5 +1,5 @@
 ---
-permalink: /summerinstitute/
+permalink: /summerprogram/
 title: "Summer Program"
 
 ---
