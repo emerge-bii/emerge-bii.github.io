@@ -20,7 +20,7 @@ This training, research, and professional development program is co-mentored by 
 
 Note that in order to participate and receive funding from the National Science Foundation, you must be a US citizen, US national, or permanent resident.
 
-When: June 13th - June 14th, 2022
+When: June 13th - June 24th, 2022
 
 Location: The University of New Hampshire and Zoom;
 *Proof of COVID-19 vaccination is required for participation*
