@@ -18,7 +18,7 @@ Attendees will meet in person for 1 week, virtually daily for a second week, and
 
 This training, research, and professional development program is co-mentored by diverse EMERGE faculty, and spans scientific scales from microbes, to plants, to remote sensing, and key team science skills including communication, mentoring, and equity.
 
-Note that in order to participate and receive funding from the National Science Foundation, you must be a US citizen, US national, or permanent resident.
+Note that in order to participate and receive funding from the National Science Foundation, you must be a US citizen, US national, or permanent resident. (Interested non-residents/citizens with funding may be considered as space permits, and should apply indicating their self-funded status.)
 
 When: June 13th - June 24th, 2022
 
