@@ -6,6 +6,11 @@ title: "Publications"
 
 EMERGE Team Members **bolded**
 
+**2022**
+
+Verbeke BA, Lamit LJ, Lilleskov EA, **Hodgkins SB**, Basiliko N, Kane ES, Andersen R, Rebekka Artz RRE, Benavides JC, Benscoter BW, Borken W, Bragazza L, Brandt SM, Bräuer SL, Carson MA, Charman D, Chen X, Clarkson BR, Cobb AR, Convey P, del Águila Pasquel J, Enriquez AS, Griffiths H, Grover SP, Harvey CF, Harris LI, Hazard C, Hodgson D, Hoyt AM, Hribljan J, Jauhiainen J, Juutinen S, Knorr K-H, Kolka RK, Könönen M, Larmola T, **McCalley CK**, McLaughlin J, Moore TR, Mykytczuk N, Normand AE, **Rich V**,  Roulet N, Royles J, Rutherford J, Smith DS, Svenning MM, Tedersoo L, Thu PQ, Trettin CC, Tuittila E-S, Urbanová Z, **Varner RK**, Wang M, Wang Z, Warren M, Wiedermann MM, Williams S, Yavitt JB, Yu Z-G, Yu Z, **Chanton JP**.  2022. <a href="https://www.biorxiv.org/content/10.1101/2021.05.24.445415v1" target="_blank" rel="noopener noreferrer">Latitude, elevation, and mean annual temperature predict peat organic matter chemistry at a global scale.</a> ***Global Biogeochemical Cycles***. 36, e2021GB007057. 
+
+**2021**
 
 6\. **Wilson, R.M.**, **Hough, M.A.**, Verbeke, B.A., **Hodgkins, S.B.**, IsoGenie Coordinators, **Chanton, J.P.**, **Saleska, S.D.**, **Rich, V.I.**, & **M.M. Tfaily**. 2021. Plant organic matter inputs exert a strong control on soil organic matter decomposition in a thawing permafrost peatland. ***Science of the Total Environment***. In press.
 
