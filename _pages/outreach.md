@@ -27,4 +27,4 @@ title: "Outreach"
 -Graduate students, Joy O’Brien and Nate Blais, worked with 4th graders at Moharimet Elementary School in Madbury, NH for a Forest Ecology Field Day.
 
 {% include image.html url="/assets/images/OBrien_Blais.JPG"
-description="Graduate students, Joy O’Brien and Nate Blais, working with 4th graders at Moharimet Elementary School in Madbury, NH for a Forest Ecology Field Day. Photo credit: Joy O'Brien." %}
+description="Graduate students, Joy O’Brien and Nate Blais, working with 4th graders at Moharimet Elementary School in Madbury, NH for a Forest Ecology Field Day. Photo credit: Joy O'Brien." %} <img src="/assets/images/OBrien_Blais.JPG" style="width: 50%; height: 50%"/>
