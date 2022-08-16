@@ -14,7 +14,7 @@ title: "Outreach"
 
 -Dr. Steve Frolking discussed peatlands with a NYTimes journalist, who is part of a group of reporters focused on peatlands in some of their first reporting of the multi-year project by the NYTimes Headway team (https://www.nytimes.com/section/headway). This led to Dr. Frolking being one of about 10 peatland scientists (so far) who have contributed to the Headway project’s FAQ on peatlands. May 5, 2022 <a href="https://www.nytimes.com/explain/2022/05/05/headway/peatlands-wetlands-bogs-swamps-fen" target="_blank" rel="noopener noreferrer">Article</a>
 
--Alex Cory gave an interview to PLOS Blogs discussing her work that was published in PLOS ONE and the role of peatlands in sequestering CO<sub>2</sub>. This was part of a series featuring early career researchers. March 18, 2022 <a href="https://everyone.plos.org/2022/03/18/an-interview-with-biogeochemist-alex-cory/" target="_blank" rel="noopener noreferrer">Article</a>
+-PhD student, Alex Cory, gave an interview to PLOS Blogs discussing her work that was published in PLOS ONE and the role of peatlands in sequestering CO<sub>2</sub>. This was part of a series featuring early career researchers. March 18, 2022 <a href="https://everyone.plos.org/2022/03/18/an-interview-with-biogeochemist-alex-cory/" target="_blank" rel="noopener noreferrer">Article</a>
 
 -Dr. Scott Saleska gave an interview about the thawing permafrost at Stordalen on an episode “De-permafrosting” with Big Picture Science produced at the SETI Institute. September 6, 2021 <a href="http://bigpicturescience.org/episodes/de-permafrosting" target="_blank" rel="noopener noreferrer">Article</a>
 
