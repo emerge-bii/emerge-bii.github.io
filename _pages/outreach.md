@@ -24,7 +24,7 @@ title: "Outreach"
 
 -Graduate student, Joy O'Brien (in partnership with the UNH GLOBE office) conducted two soil themed outreach events for the Soil Ecology Field Day at Mast Way Elementary School in Lee, NH. The 4th graders learned about soil, using soil cores and a soil tent display.
 
-{% include image.html url="/assets/images/OBrien_Blais.JPG"
-description="Graduate students, Joy O’Brien and Nate Blais, worked with 4th graders at Moharimet Elementary School in Madbury, NH for a Forest Ecology Field Day. October 15, 2021. Photo credit: Joy O'Brien." %}
+
+<center><img src="/assets/images/OBrien_Blais.JPG" style="width: 50%; height: 50%"/></center>
 
 -Graduate students, Joy O’Brien and Nate Blais, worked with 4th graders at Moharimet Elementary School in Madbury, NH for a Forest Ecology Field Day. October 15, 2021
