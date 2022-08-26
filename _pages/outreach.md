@@ -22,9 +22,21 @@ title: "Outreach"
 
 **K-12 Education**
 
+-Dr. Zhen Li facilitated a 1 hour virtual Scratch coding class for Metas STEM Day at the Lawrence Berkeley National Lab. November 20, 2021.
+
+-Dr. Michael Palace used Minecraft Education to teach coding using GIS data from UAS drones to develop a virtual landscape of Stordalen Mire at the UNH Tech Camp. July 8, 2021
+
+*Ecology Field Days*
+
 -Graduate student, Joy O'Brien (in partnership with the UNH GLOBE office) conducted two soil themed outreach events for the Soil Ecology Field Day at Mast Way Elementary School in Lee, NH. The 4th graders learned about soil, using soil cores and a soil tent display.
 
 
 <center><img src="/assets/images/OBrien_Blais.JPG" style="width: 50%; height: 50%"/></center>
 
 -Graduate students, Joy O’Brien and Nate Blais, worked with 4th graders at Moharimet Elementary School in Madbury, NH for a Forest Ecology Field Day. October 15, 2021
+
+*Skype A Scientist*
+
+-Dr. Alex Cory presented her research to two classes of 9th grade Earth Science students at a high school in Columbia, Maryland. February 8, 2022
+
+-Dr. Hannah Holland-Moritz participated with the Skype with a Scientist organization to virtual meet with a 5th grade class and discuss microbes in the tundra, what happens to ecosystems under global climate change, the fun and hard parts of being a scientist, whether viruses are living or dead, and DNA sequencing. November 4, 2021
