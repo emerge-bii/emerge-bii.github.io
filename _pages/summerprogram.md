@@ -11,7 +11,7 @@ Attendees will learn & implement 5 core competencies of Interdisciplinary Ecosys
 1. Foundational Science, spanning: biomolecules; isotopes; biotic and abiotic interactions; math in biology; representing biology in models; remote sensing; data management; gene regulation & acclimation; genetic diversity & adaptation; community assembly
 2. Science of Team Science
 3. Mentor Training
-4. Diversity, Equity, &  Inclusion
+4. Diversity, Equity, & Inclusion
 5. Science Communication
 
 Attendees will meet in person for 1 week, virtually daily for a second week, and then meet as a cohort regularly over the following year to apply their trainings and collaboratively develop a paper.
@@ -20,13 +20,13 @@ This training, research, and professional development program is co-mentored by 
 
 Note that in order to participate and receive funding from the National Science Foundation, you must be a US citizen, US national, or permanent resident. (Interested non-residents/citizens with funding may be considered as space permits, and should apply indicating their self-funded status.)
 
-When: Dates for Summer 2023 coming soon!
+When: June 5th - June 16th, 2023
 
-Location: The University of New Hampshire and Zoom;
+Location: The University of New Hampshire (June 5th-June 9th) and Zoom (June 12th-June 16th)
 *Proof of COVID-19 vaccination is required for participation*
 
 Find more details <a href="https://drive.google.com/file/d/1bGkqukhR1203q-YuW9eOIAcTE0JZNCWJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
 
-Ready to apply? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEKblUH9I5BWCp4I2pq6M_v6qDhJ7aOWL0CqLBjnQQOS5KIg/viewform" target="_blank" rel="noopener noreferrer">Apply Here</a>
+Ready to apply? <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_f8sB18z9S0bKH4Tgd5mgzWBcPWEkJmAkxfHkiOZCTU-2kw/viewform" target="_blank" rel="noopener noreferrer">Apply Here</a>
 
-***Applications for Summer 2023 will open later this year. Stay tuned!***
+***Review of applications will begin February 15th, 2023***
