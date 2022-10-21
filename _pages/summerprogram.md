@@ -25,8 +25,8 @@ When: June 5th - June 16th, 2023
 Location: The University of New Hampshire (June 5th-June 9th) and Zoom (June 12th-June 16th)
 *Proof of COVID-19 vaccination is required for participation*
 
-Find more details <a href="https://drive.google.com/file/d/1bGkqukhR1203q-YuW9eOIAcTE0JZNCWJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
+Find more details <a href="https://drive.google.com/file/d/1aKeO7qQEJMPs1ZPI9zDybY04uIwsFMdI/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
 
 Ready to apply? <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_f8sB18z9S0bKH4Tgd5mgzWBcPWEkJmAkxfHkiOZCTU-2kw/viewform" target="_blank" rel="noopener noreferrer">Apply Here</a>
 
-***Review of applications will begin February 15th, 2023***
+***Review of applications will begin February 15th, 2023.***
