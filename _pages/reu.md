@@ -18,5 +18,4 @@ Ready to apply? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwAvwq5uzyZok
 
 ***Application deadline December 1, 2022.***
 
-{% include image.html url="/assets/images/REU_Cohort_2022.jpeg"
-description="2022 REU Participants and Mentors." %}
+{% include image.html url="/assets/images/REU_Cohort_2022.jpeg" description="2022 REU Participants and Mentors." %}
