@@ -23,7 +23,7 @@ Note that in order to participate and receive funding from the National Science 
 When: June 5th - June 16th, 2023
 
 Location: The University of New Hampshire (June 5th-June 9th) and Zoom (June 12th-June 16th)
-*Proof of COVID-19 vaccination is required for participation*
+*To protect our participants, we highly recommend COVID-19 vaccination, if possible.*
 
 Find more details <a href="https://drive.google.com/file/d/1aKeO7qQEJMPs1ZPI9zDybY04uIwsFMdI/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
 
