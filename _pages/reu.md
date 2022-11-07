@@ -18,4 +18,4 @@ Ready to apply? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwAvwq5uzyZok
 
 ***Application deadline December 1, 2022.***
 
-{% include image.html url="/assets/images/REU_Cohort_2022.jpeg" description="2022 REU Participants and Mentors." %}
+{% include image.html url="/assets/images/REU_Cohort_2022.jpeg" description="2022 REU Participants and Mentors. From left to right. Back row: Max Murphy, Karuna Bhat. Middle row: Director Dr. Ruth Varner, REU Co-director Dr. Florencia Fahnestock, Tallulah Biletzskov, Parker Stoddard, Torin Scalora, Claire Beezley. Front row: AiLi Pigott, REU Mentor Dr. Hannah Holland-Moritz, Bianca Cilento, Kenneth De León Colón, Nikki Castro-Morales." %}
