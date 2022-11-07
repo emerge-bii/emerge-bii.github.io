@@ -8,6 +8,8 @@ EMERGE Team Members **bolded**
 
 **2022**
 
+19\. **Fofana A**, Anderson D, **McCalley CK**, **Hodgkins S**, **Wilson RM**, **Cronin D**, Raab N, Torabi M, **Varner RK**, **Crill P**, **Saleska SR**, **Chanton JP**, **Tfaily MM**, **Rich VI**. 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0038071722002668" target="_blank" rel="noopener noreferrer">Mapping substrate use across a permafrost thaw gradient.</a> ***Soil Biology and Biochemistry***. 175:108809.
+
 18\. **Dominguez-Huerta G**†, **Zayed AA**†, Wainaina JM, **Guo J**, **Tian F**, **Pratama AA**, **Bolduc B**, **Mohssen M**, **Zablocki O**, Pelletier E, Delage E, Alberti A, Aury JM, Carradec Q, da Silva C, Labadie K, Poulain J; Tara Oceans Coordinators§, Bowler C, Eveillard D, Guidi L, Karsenti E, Kuhn JH, Ogata H, Wincker P, Culley A, Chaffron S, **Sullivan MB**. 2022. <a href="https://www.science.org/doi/10.1126/science.abn6358" target="_blank" rel="noopener noreferrer">Diversity and ecological footprint of Global Ocean RNA viruses.</a> ***Science***. 3769:1202. († ***denotes co-first authors***)
 
 17\. **Zayed AA**†, Wainaina JM†, Dominguez-Huerta G†, Pelletier E, **Guo J**, **Mohssen M**, **Tian F**, **Pratama AA**, **Bolduc B**, **Zablocki O**, **Cronin D**, Solden L, Delage E, Alberti A, Aury J-M, Carradec Q, da Silva C, Labadie K, Poulain J, Ruscheweyh H-J, Salazar G, Shatoff E, Tara Oceans Coordinators, Bundschuh R, Fredrick K, Kubatko LS, Chaffron S, Culley AI, Sunagawa S, Kuhn JH, Wincker P, **Sullivan MB**. 2022. <a href="https://www.science.org/doi/10.1126/science.abm5847" target="_blank" rel="noopener noreferrer">Cryptic and abundant marine viruses at the evolutionary origins of Earth’s RNA virome.</a> ***Science***. 376:156. († ***denotes co-first authors***)
