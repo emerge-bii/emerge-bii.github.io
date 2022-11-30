@@ -12,7 +12,7 @@ Location: The University of New Hampshire and Abisko, Sweden
 
 Contact: Ruth.Varner@unh.edu; florencia.fahnestock@unh.edu
 
-Find more details <a href="https://drive.google.com/file/d/1pQNNaI4cKt32HhsDypvdxSE6WJe5lIAk/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
+Find more details <a href="https://drive.google.com/file/d/1hJ5qPb_-yRWR18BbRwYX1mqvw4syeHEV/view?usp=share_link" target="_blank" rel="noopener noreferrer">here</a>
 
 Ready to apply? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwAvwq5uzyZok5ODzI511MsGzAA99dLqo6Xvz2gJ7zCRgYAg/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Apply Here</a>
 
