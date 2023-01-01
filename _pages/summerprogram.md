@@ -4,7 +4,7 @@ title: "Summer Program"
 
 ---
 
-The NSF EMERGE Biology Integration Institute seeks scientists from any career stage - graduate student, postdoc, technician, faculty, and others - to train and engage in the multidisciplinary science of how ecosystems are responding to climate change.
+The NSF EMERGE Biology Integration Institute seeks post-baccalaureate scientists from any career stage - graduate student, postdoc, technician, faculty, and others - to train and engage in the multidisciplinary science of how ecosystems are responding to climate change.
 
 Attendees will learn & implement 5 core competencies of Interdisciplinary Ecosystem Science:
 
