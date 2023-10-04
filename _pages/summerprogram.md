@@ -20,13 +20,13 @@ This training, research, and professional development program is co-mentored by 
 
 Note that in order to participate and receive funding from the National Science Foundation, you must be a US citizen, US national, or permanent resident. (Interested non-residents/citizens with funding may be considered as space permits, and should apply indicating their self-funded status.)
 
-When: June 5th - June 16th, 2023
+When: June 3rd - June 14th, 2024
 
-Location: The University of New Hampshire (June 5th-June 9th) and Zoom (June 12th-June 16th)
+Location: The University of New Hampshire (June 3rd-June 7th) and Zoom (June 10th-June 14th)
 *To protect our participants, we highly recommend COVID-19 vaccination, if possible.*
 
 Find more details <a href="https://drive.google.com/file/d/1aKeO7qQEJMPs1ZPI9zDybY04uIwsFMdI/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
 
-Ready to apply? <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_f8sB18z9S0bKH4Tgd5mgzWBcPWEkJmAkxfHkiOZCTU-2kw/viewform" target="_blank" rel="noopener noreferrer">Apply Here</a>
+Ready to apply? <a href="https://drive.google.com/file/d/1lD3aFcAmeekECq5v_g3uSfIK992DLDcI/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Apply Here</a>
 
-***Review of applications will begin February 15th, 2023.***
+***Review of applications will begin February 1st, 2024.***
