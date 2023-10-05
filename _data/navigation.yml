@@ -13,11 +13,11 @@ main:
     url: /publications/
   - title: "Data"
     url: /data/
-  - title: "Training"
+  - title: Training
     sublinks:
-      - title: "Summer Program"
+      - title: Summer Program
         url: /summerprogram/
-      - title: "REU"
+      - title: REU
         url: /reu/
   - title: "Outreach"
     url: /outreach/
