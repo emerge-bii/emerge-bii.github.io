@@ -6,6 +6,10 @@ title: "Publications"
 
 EMERGE Team Members **bolded**
 
+**2023**
+
+20\. McDonald MD, **Owusu-Ansah C**, **Ellenbogen JB**, Malone ZD, Ricketts MP, **Frolking SE**, **Ernakovich JG**, **Ibba M**, **Bagby SC**, Weissman JL. 2023. <a href="https://www.sciencedirect.com/science/article/pii/S0966842X23002378" target="_blank" rel="noopener noreferrer">What is microbial dormancy?</a> ***Trends in Microbiology***. In press.
+
 **2022**
 
 19\. **Fofana A**, Anderson D, **McCalley CK**, **Hodgkins S**, **Wilson RM**, **Cronin D**, Raab N, Torabi M, **Varner RK**, **Crill P**, **Saleska SR**, **Chanton JP**, **Tfaily MM**, **Rich VI**. 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0038071722002668" target="_blank" rel="noopener noreferrer">Mapping substrate use across a permafrost thaw gradient.</a> ***Soil Biology and Biochemistry***. 175:108809.
