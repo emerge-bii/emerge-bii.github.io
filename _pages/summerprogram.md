@@ -25,8 +25,8 @@ When: June 3rd - June 14th, 2024
 Location: The University of New Hampshire (June 3rd-June 7th) and Zoom (June 10th-June 14th)
 *To protect our participants, we highly recommend COVID-19 vaccination, if possible.*
 
-Find more details <a href="https://drive.google.com/file/d/1aKeO7qQEJMPs1ZPI9zDybY04uIwsFMdI/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
+Find more details <a href="https://drive.google.com/file/d/1UsYAaAxbqvv4aT2z3Noo0tsP9U4YxMB9/view?usp=drive_link" target="_blank" rel="noopener noreferrer">here</a>
 
-Ready to apply? <a href="https://drive.google.com/file/d/1lD3aFcAmeekECq5v_g3uSfIK992DLDcI/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Apply Here</a>
+Ready to apply? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqeQ6FwwPaiJDbDabIwY3Lot7_PWe0JlitXMKYdhLDbAUh3w/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Apply Here</a>
 
 ***Review of applications will begin February 1st, 2024.***
