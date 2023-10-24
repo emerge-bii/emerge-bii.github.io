@@ -287,7 +287,7 @@ title: "People"
 <tr>
 <td>Brittany Fonner</td>
 <td>The Ohio State University</td>
-<td>Program Coordinator</td>
+<td>Program Coordinator, Outreach Co-Lead</td>
 </tr>
 <tr>
 <td>Michael Hardesty</td>
