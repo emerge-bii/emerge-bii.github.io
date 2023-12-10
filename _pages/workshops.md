@@ -7,6 +7,8 @@ title: "Workshops"
 
 {% include image.html url="/assets/images/Learning_workshop_advertisement.png" description=none %}
 
+<a href="https://sites.google.com/view/emerge-toolkit/home" target="_blank" rel="noopener noreferrer">https://sites.google.com/view/emerge-toolkit/home</a>
+
 <h2>A Comprehensive Toolkit for Interdisciplinary Team Science: From Authorship Frameworks to Field Safety Planning, Data Sharing to Mentor Training, this Workshop Shares Tools and Templates for Accomplishing Impactful Team Science Across Disciplines</h2>
 
 ***Description:***   This workshop will benefit early-, mid-, and late- career scientists interested in participating in, launching or leading multidisciplinary scientific teams.  Workshop participants will receive a toolkit of resources for accomplishing interdisciplinary team science.  The toolkit spans 6 areas: Governance & Infrastructure, Data Management, Team Science, Science Communication & Outreach, DEI & Mentorship, and Evaluation.  Team Science and Equity & Inclusivity are also explicitly built into many of the toolkit’s resources across all 6 areas. 
