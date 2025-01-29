@@ -6,11 +6,11 @@ title: "Outreach"
 
 **Podcasts**
 
--Dr. Virginia Rich looked at how the Earth's biosphere will react to climate change. April 20, 2022 <a href="https://soundcloud.com/voices_arts_sciences/virginia-rich" target="_blank" rel="noopener noreferrer">SoundCloud</a> or <a href="https://podcasts.apple.com/us/podcast/virginia-rich-looks-at-how-the-earths-biosphere-will/id1436204139?i=1000558170517" target="_blank" rel="noopener noreferrer">iTunes</a>
+-Dr. Virginia Rich looked at how the Earth's biosphere will react to changing ecosystems. April 20, 2022 <a href="https://soundcloud.com/voices_arts_sciences/virginia-rich" target="_blank" rel="noopener noreferrer">SoundCloud</a> or <a href="https://podcasts.apple.com/us/podcast/virginia-rich-looks-at-how-the-earths-biosphere-will/id1436204139?i=1000558170517" target="_blank" rel="noopener noreferrer">iTunes</a>
 
 -Dr. Scott Saleska gave an interview about the thawing permafrost at Stordalen on an episode “De-permafrosting” with Big Picture Science produced at the SETI Institute. September 6, 2021 <a href="http://bigpicturescience.org/episodes/de-permafrosting" target="_blank" rel="noopener noreferrer">Podcast</a>
 
--Dr. Moira Hough discussed climate change and soil C storage and how it is relevant to outdoor athletes with Kilian Jornet in a video/podcast episode for Athlete Climate Academy. July 5, 2021 <a href="https://anchor.fm/athlete-climate-academy/episodes/Ep6--Soil-with-Moira-Hough-e12r1fn/a-a5t0il9" target="_blank" rel="noopener noreferrer">Podcast</a> <a href="https://youtu.be/ERJ3stD0KIs" target="_blank" rel="noopener noreferrer">YouTube</a>
+-Dr. Moira Hough discussed changing ecosystems and how it is relevant to outdoor athletes with Kilian Jornet in a video/podcast episode for Athlete Climate Academy. July 5, 2021 <a href="https://anchor.fm/athlete-climate-academy/episodes/Ep6--Soil-with-Moira-Hough-e12r1fn/a-a5t0il9" target="_blank" rel="noopener noreferrer">Podcast</a> <a href="https://youtu.be/ERJ3stD0KIs" target="_blank" rel="noopener noreferrer">YouTube</a>
 
 **Media Interviews**
 
@@ -39,4 +39,4 @@ title: "Outreach"
 
 -Dr. Alex Cory presented her research to two classes of 9th grade Earth Science students at a high school in Columbia, Maryland. February 8, 2022
 
--Dr. Hannah Holland-Moritz participated with the Skype with a Scientist organization to virtual meet with a 5th grade class and discuss microbes in the tundra, what happens to ecosystems under global climate change, the fun and hard parts of being a scientist, whether viruses are living or dead, and DNA sequencing. November 4, 2021
+-Dr. Hannah Holland-Moritz participated with the Skype with a Scientist organization to virtual meet with a 5th grade class and discuss microbes in the tundra, what happens to changing ecosystems, the fun and hard parts of being a scientist, whether viruses are living or dead, and DNA sequencing. November 4, 2021
