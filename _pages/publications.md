@@ -6,9 +6,31 @@ title: "Publications"
 
 EMERGE Team Members **bolded**
 
+**2025**
+
+35\. **Cory A**, **Wilson RM**, Ogles O, **Crill PM**, **Bosman SH**, **Li Z**, Chang K-Y, **Rich VI**, **Chanton JP**, **EMERGE Project Coordinators**, **Hough M**, Dominguez S, Irwin-Raab N, Trubl G, Jones RM, Anderson D, Isogenie Field Team. . 2025. <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JG008371" target="_blank" rel="noopener noreferrer">On the relationship between methane production in anaerobic incubations of peat material and in-situ methane emissions.</a> ***Journal of Geophysical Research***. 130:e2024JG008371.
+
+34\. **McGivern BB**, **Ellenbogen JB**, Hoyt DW, Bouranis JA, Stemple BP, **Daly RA**, **Bosman SH**, **Sullivan MB**, Hagerman AE, **Chanton JP**, **Tfaily MM**, **Wrighton KC**. 2025. <a href="https://academic.oup.com/ismej/article/19/1/wraf108/8152721" target="_blank" rel="noopener noreferrer">Polyphenol rewiring of the microbiome reduces methane emissions.</a> ***The ISME Journal***. 19:1.
+
+33\. **Aroney STN**, **Newell RJP**, Nissen JN, Camargo AP, **Tyson GW**, **Woodcroft BJ**. 2025. <a href="https://academic.oup.com/bioinformatics/article/41/4/btaf147/8107763" target="_blank" rel="noopener noreferrer">CoverM: Read alignment statistics for metagenomics.</a> ***Bioinformatics***. 41:btaf147.
+
+32\. **Yang S**, **Tang J**, **Li Z**, Yuan K, **Wu Q**, Chang K-Y, **Hodgkins SB**, **Wilson RM**, Zhu Q, Grant RF, **Riley WJ**, **Saleska SR**, **Rich VI**, & **Varner RK**. 2025. <a href="https://iopscience.iop.org/article/10.1088/1748-9326/adaf44" target="_blank" rel="noopener noreferrer">Unraveling the depth-dependent causal dynamics of methanogenesis and methanotrophy in a high-latitude fen peatland.</a> ***Environmental Research Letters***. 20:034005.
+
+31\. **Li Z**, **Riley WJ**, Marschmann GL, **Karaoz U**, Shirley IA, **Wu Q**, Bouskill NJ, Chang K-Y,  **Crill PM**, Grant RF, King E,  **Saleska SR**, **Sullivan MB**, **Tang J**, **Varner RK**, **Woodcroft BJ**, **Wrighton KW**, **the EMERGE Biology Integration Institute Coordinators**, & **Brodie EL**. 2025. <a href="https://www.nature.com/articles/s41467-025-57386-5" target="_blank" rel="noopener noreferrer">A framework for integrating genomics, microbial traits, and ecosystem biogeochemistry.</a> ***Nature Communications***. 16:2186.
+
+30\. **Cory A**, **Wilson R**, Holmes M, **Riley W**, **Li Y-F**, **Tfaily M**, **Bagby S**, **Crill PM**, **Ernakovich J**, **Rich VI**, **Chanton JP**. 2025. <a href="https://www.nature.com/articles/s41598-025-85928-w" target="_blank" rel="noopener noreferrer">A Climatically Significant Abiotic Mechanism of Carbon Loss and Nitrogen Limitation in Peat Bogs.</a> ***Scientific Reports***. 15:2560. 
+
+
+29\. **Kshatriya S** and **Bagby SC**. <a href="https://peerj.com/articles/19418/" target="_blank" rel="noopener noreferrer">
+TaRTLEt: Transcriptionally-active Riboswitch Tracer Leveraging Edge deTection.</a> 2025. ***PeerJ***. 13:e19418.
+
 **2024**
 
-26\. **Sun CL**†, **Pratama AA**†, Gazitúa MC, **Cronin D**, **McGivern BB**, **Wainaina JM**, **Vik DR**, **Zayed AA**, **Bolduc B**, IsoGenie Project Field Teams 2010-2017, **the IsoGenie and EMERGE Projects Coordinators**, **Wrighton KC**, **Rich VI**, **Sullivan MB**. 2024. <a href="https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16665" target="_blank" rel="noopener noreferrer">Virus ecology and 7-year temporal dynamics across a permafrost thaw gradient.</a> ***Environmental Microbiology***. 26:e16665.  († *denotes co-first authors*)
+28\. **Cronin D**†, **Li Y-F**†, Evans P, **Tyson GW**, **Woodcroft BJ**, **Rich VI**, IsoGenie 2016 and 2019 Field Teams. 2024. <a href="https://peerj.com/articles/18745/" target="_blank" rel="noopener noreferrer">The impact of sample storage and extraction on microbiome profiles from peat.</a> ***PeerJ***. 12:e18745. († *denotes co-first authors*)
+
+27\. **Freire Zapata V**, **Holland-Moritz H**, **Cronin DR**, **Aroney S**, **Smith DA**, **Wilson RM**, **Ernakovich JG**, **Woodcroft BJ**, **Bagby SC**, **EMERGE 2012 Field Team**, **EMERGE Coordinators**, **Rich VI**, **Sullivan MB**, Stegen JC, **Tfaily MM**. 2024. <a href="https://www.nature.com/articles/s41564-024-01800-z" target="_blank" rel="noopener noreferrer">Microbiome-metabolite linkages drive greenhouse gas dynamics over a permafrost thaw gradient.</a> ***Nature Microbiology***. 9:2892.
+
+26\. **Sun CL**†, **Pratama AA**†, Gazitúa MC, **Cronin D**, **McGivern BB**, **Wainaina JM**, **Vik DR**, **Zayed AA**, **Bolduc B**, IsoGenie Project Field Teams 2010-2017, **the IsoGenie and EMERGE Projects Coordinators**, **Wrighton KC**, **Rich VI**, **Sullivan MB**. 2024. <a href="https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16665" target="_blank" rel="noopener noreferrer">Virus ecology and 7-year temporal dynamics across a permafrost thaw gradient.</a> ***Environmental Microbiology***. 26:e16665. († *denotes co-first authors*)
 
 25\. **Kuhn MA**,  **Varner RK**, **McCalley C**, **Perryman CR**, Aurela M, **Burke SA**, **Chanton J**, **Crill P**, DelGreco J, Deng J, Heffernan L, Herrick C, **Hodgkins SB**, **Jones CP**, Juutinen S, Kane E, Lamit LJ, Larmola T, Lilleskov E, Olefeldt D, **Palace MW**, **Rich V**, Schulze C, Shorter JH, Sullivan F, Sonnentag O, Turetsky MR, Waldrop MP. 2024. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JG007837" target="_blank" rel="noopener noreferrer">Controls on Stable Methane Isotope Values in Northern Peatlands and Potential Shifts in Values Under Permafrost Thaw Scenarios.</a> ***Journal of Geophysical Research - Biogeosciences***. 10.1029/2023JG007837.
 
