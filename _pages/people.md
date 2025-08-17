@@ -3,6 +3,8 @@ permalink: /people/
 title: "People"
 
 ---
+{% include image.html url="/assets/images/B2_group_photo_2024.jpg"
+description="The EMERGE Team at the 2024 Annual Meeting held at Biosphere 2 outside of Tucson, AZ. Photo credit: Wesley You." %}
 
 <p style="font-size: 0.75em;"><strong>Key:</strong> RAs 1-5 = the Research Activity Teams. RA1 = <em>Expression &amp; Acclimation</em>; RA2 = <em>Interactions &amp; Assembly</em>; RA3 = <em>Genetic Diversity &amp; Adaption</em>; RA4 = <em>G2E2G Integration</em>; RA5 = <em>Scaling to the Landscape</em>.</p>
 <table>
