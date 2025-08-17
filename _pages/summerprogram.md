@@ -24,3 +24,13 @@ When: Program dates TBD
 Location: The University of New Hampshire and Zoom
 
 
+**Previous Summer Program Experiences**
+
+***Summer 2024***
+
+We completed another successful year of our Summer Program in June in Durham, NH at the University of New Hampshire (week 1- in person, week 2-virtual). This year, we had 20 participants from various institutions and career stages including 2 assistant professors, 2 postdocs, 8 PhD students, 2 MS students, 4 research assistants, and 2 lab technicians. More than 26 EMERGE scientists were involved in teaching the course over two weeks.
+
+<center><img src="/assets/images/summer_program_group_2024.JPG" style="width: 70%; height: 70%"/></center>
+<figcaption>Summer Program and REU participants, along with EMERGE instructors and staff at the University of New Hampshire. <i>Photo credit: D. Phan.</i></figcaption>
+
+
