@@ -28,9 +28,12 @@ Location: The University of New Hampshire and Zoom
 
 ***Summer 2024***
 
-We completed another successful year of our Summer Program in June in Durham, NH at the University of New Hampshire (week 1- in person, week 2-virtual). This year, we had 20 participants from various institutions and career stages including 2 assistant professors, 2 postdocs, 8 PhD students, 2 MS students, 4 research assistants, and 2 lab technicians. More than 26 EMERGE scientists were involved in teaching the course over two weeks.
+The EMERGE Summer Program hosted 20 participants at the University of New Hampshire in Durham, NH (week 1- in person, week 2-virtual). The participants were from various institutions and career stages including 2 assistant professors, 2 postdocs, 8 PhD students, 2 MS students, 4 research assistants, and 2 lab technicians. More than 26 EMERGE scientists were involved in teaching the course over two weeks.
 
 <center><img src="/assets/images/summer_program_group_2024.JPG" style="width: 70%; height: 70%"/></center>
 <figcaption>Summer Program and REU participants, along with EMERGE instructors and staff at the University of New Hampshire. <i>Photo credit: D. Phan.</i></figcaption>
 
+<br />
 
+center><img src="/assets/images/Summer_program_2024.JPG" style="width: 70%; height: 70%"/></center>
+<figcaption><b>Summer Program participants and REU students during the workshop and the field day at Old Durham Reservoir.</b> <i>Top Rows:</i> Co-director Dr. Ruth Varner, Apryl Perry, and Dr. Florencia Fahnestock demonstrating various field methods while at the Old Durham Reservoir. <i>Middle:</i> Franklin Sullivan demonstrating the drone controls. Participants watching Cherry Jones sample bubble traps on the water. Dr. Michael Palace lecturing on remote sensing. <i>Middle Row:</i> Group work during a Team Science session with Dr. Anne Mook. Enjoying Game Night at the Three Chimneys Inn. <i>Bottom Row:</i> Franklin flying the drone. Dr. Virginia Rich introducing the EMERGE fisheye figure. Program Coordinators, Heather Ingram and Dr. Brittany Fonner enjoying the field trip to Portsmouth, NH. <i>Photo credits: B. Fonner and H. Ingram.</i></figcaption>
